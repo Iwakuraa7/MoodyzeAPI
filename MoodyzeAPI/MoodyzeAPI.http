@@ -1,0 +1,6 @@
+@MoodyzeAPI_HostAddress = http://localhost:5149
+
+GET {{MoodyzeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
